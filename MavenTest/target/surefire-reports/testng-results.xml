@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13189" started-at="2020-04-09T15:22:34 BST" finished-at="2020-04-09T15:22:47 BST">
+  <suite name="Default suite" duration-ms="11231" started-at="2020-04-09T19:08:01 BST" finished-at="2020-04-09T19:08:12 BST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13189" started-at="2020-04-09T15:22:34 BST" finished-at="2020-04-09T15:22:47 BST">
+    <test name="Default test" duration-ms="11231" started-at="2020-04-09T19:08:01 BST" finished-at="2020-04-09T19:08:12 BST">
       <class name="mavenPOC.MavenTestClass">
-        <test-method status="PASS" signature="testgooglesearch()[pri:0, instance:mavenPOC.MavenTestClass@7cd62f43]" name="testgooglesearch" duration-ms="13099" started-at="2020-04-09T15:22:34 BST" finished-at="2020-04-09T15:22:47 BST">
+        <test-method status="PASS" signature="testgooglesearch()[pri:0, instance:mavenPOC.MavenTestClass@7cd62f43]" name="testgooglesearch" duration-ms="11150" started-at="2020-04-09T19:08:01 BST" finished-at="2020-04-09T19:08:12 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testgooglesearch -->
